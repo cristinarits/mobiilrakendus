@@ -10,6 +10,18 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "AndroidCamera",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioGameplayVolume",
+			"Enabled": true
 		}
 	]
 }
