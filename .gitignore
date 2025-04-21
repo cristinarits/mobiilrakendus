@@ -1,0 +1,17 @@
+# Unreal Engine - clean .gitignore
+
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.apk
+*.obb
+*.so
+*.exe
+*.dll
+*.pdb
+*.log
+*.vs/
+*.gch
+.vscode/
